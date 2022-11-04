@@ -1260,10 +1260,10 @@
 /*--------------------------------------------------------------
 # Main Menu All Responsice Css
 --------------------------------------------------------------*/
-@media only screen and (min-width: 1401px) and (max-width: 1580px) {
+@media only screen and (min-width: 1421px) and (max-width: 1580px) {
   /* .main-menu-wrapper__call {
-        display: none;
-    } */
+    display: none;
+  } */
 
   .main-menu-wrapper__call-number {
     display: none;
@@ -1274,7 +1274,7 @@
   }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1400) {
+@media only screen and (min-width: 1356px) and (max-width: 1420px) {
   .main-menu-wrapper__call {
     display: none;
   }
@@ -1288,7 +1288,21 @@
   }
 }
 
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
+/* @media only screen and (min-width: 1200px) and (max-width: 1400) {
+  .main-menu-wrapper__call {
+    display: none;
+  }
+
+  .main-menu-wrapper__call-number {
+    display: none;
+  }
+
+  .main-menu-wrapper__search-cat {
+    margin-left: 0;
+  }
+} */
+
+@media only screen and (min-width: 992px) and (max-width: 1355px) {
   .main-menu .mobile-nav__toggler {
     padding: 36px 0;
     display: inline-block;

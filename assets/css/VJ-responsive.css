@@ -618,9 +618,9 @@
   }
 
   .testimonial-one__text {
-    font-size: 25px;
+    /* font-size: 25px;
     line-height: 45px;
-    padding-bottom: 36px;
+    padding-bottom: 36px; */
   }
 
   .trusted-one__inner {

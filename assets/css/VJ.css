@@ -54,6 +54,10 @@ body.locked {
   overflow: hidden;
 }
 
+sup {
+  font-size: 0.5em;
+}
+
 a {
   color: var(--VJ-gray);
 }

@@ -1,6 +1,12 @@
 /* About Us: Group Companoies Banner */
-@media only screen and (max-width: 1439px) {
-  #groupCompaniesBanner {
+@media only screen and (max-width: 767px) {
+  .groupCompaniesBanner-Desktop {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 767px) {
+  .groupCompaniesBanner-Mobile {
     display: none;
   }
 }

@@ -1387,10 +1387,6 @@
 --------------------------------------------------------------*/
 /* Display WhatsApp CTA */
 @media (min-width: 1501px) {
-  .stricky-header.main-menu {
-    padding: 0 60px;
-    background-color: green;
-  }
 }
 
 /* Display Only WhatsApp Icon */
@@ -1401,11 +1397,6 @@
 
   .main-menu-wrapper__search-cat {
     margin-left: 0;
-  }
-
-  .stricky-header.main-menu {
-    padding: 0 60px;
-    background-color: yellow;
   }
 }
 

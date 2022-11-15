@@ -1545,7 +1545,7 @@ input[type='search']::-webkit-search-results-decoration {
 
 .mobile-nav__contact li {
   color: var(--VJ-text-dark);
-  font-size: 14px;
+  font-size: 0.8rem;
   font-weight: 500;
   position: relative;
   display: flex;

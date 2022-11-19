@@ -3038,7 +3038,7 @@ input[type='search']::-webkit-search-results-decoration {
 .faq-one-accrodion .accrodion-title {
   position: relative;
   display: block;
-  cursor: pointer;
+  /* cursor: pointer; */
   padding: 18px 40px 18px;
   padding-right: 27px;
   transition: all 200ms linear;
